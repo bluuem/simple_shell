@@ -1,0 +1,13 @@
+#include "shell.h"
+
+/**
+ * add - this will add 2 inters toge
+ * @numb2: this is the sec inter
+ * @numb1: this is the fst inter
+ * Return: the retu will be the result ofsum
+ */
+
+int add(int numb1, int numb2)
+{
+	return (numb1 + numb2);
+}
